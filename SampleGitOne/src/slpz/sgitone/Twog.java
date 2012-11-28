@@ -6,4 +6,8 @@ public class Twog {
 		return "Helloooo there "+ name +"!@!";
 	}
 	
+	public String sayHi(String name) {
+		return "Hi "+ name +"!";
+	}
+	
 }
