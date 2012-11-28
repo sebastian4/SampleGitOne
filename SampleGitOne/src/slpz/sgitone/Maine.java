@@ -8,6 +8,8 @@ public class Maine {
 		
 		String name = "billy";
 		
+		String name2 = "mike";
+		
 		//
 		
 		System.out.println("the git beginning");
